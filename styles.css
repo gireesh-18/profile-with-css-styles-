@@ -34,9 +34,10 @@ p{
 hr{
   border: dotted #74959A 6px;
   border-bottom: none;
-  width: 4%;
+  width: 6%;
   margin: 100px auto;
 }
+
 
 .top-container {
   background-color: #E4F9F5;
