@@ -92,9 +92,12 @@ a:hover{
 
 .bottom-cloud{
   position: absolute;
-  left:300px;
-  bottom: 300px;
+  left: 250px;
+  bottom: 00px;
+  top: 50px;
+  padding-top: 350px;
 }
+
 
 .skill-row{
   width: 50%;
@@ -146,4 +149,16 @@ a:hover{
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+@media (max-width:1028px){
+  .bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 00px;
+    top: 50px;
+    padding-top: 380px;
+    padding-left:0%;
+  }
+
 }
